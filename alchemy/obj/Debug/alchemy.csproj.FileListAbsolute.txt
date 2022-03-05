@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\alchemy\alchemy\bin\Debug\alchemy.exe.config
+C:\Users\user\source\repos\alchemy\alchemy\bin\Debug\alchemy.exe
+C:\Users\user\source\repos\alchemy\alchemy\bin\Debug\alchemy.pdb
+C:\Users\user\source\repos\alchemy\alchemy\obj\Debug\alchemy.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\alchemy\alchemy\obj\Debug\alchemy.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\alchemy\alchemy\obj\Debug\alchemy.Form1.resources
+C:\Users\user\source\repos\alchemy\alchemy\obj\Debug\alchemy.Properties.Resources.resources
+C:\Users\user\source\repos\alchemy\alchemy\obj\Debug\alchemy.csproj.GenerateResource.cache
+C:\Users\user\source\repos\alchemy\alchemy\obj\Debug\alchemy.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\alchemy\alchemy\obj\Debug\alchemy.exe
+C:\Users\user\source\repos\alchemy\alchemy\obj\Debug\alchemy.pdb
+C:\Users\user\source\repos\alchemy\alchemy\obj\Debug\alchemy.About.resources
+C:\Users\user\source\repos\alchemy\alchemy\obj\Debug\alchemy.menu.resources
