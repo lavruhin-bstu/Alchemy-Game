@@ -12,8 +12,7 @@ namespace alchemy
         public Form1()
         {
             InitializeComponent();
-            //  this.MouseMove += new MouseEventHandler(mouseEvent);
-            //this.MouseClick += new MouseEventHandler(mouseClick);
+            MaximizeBox = false;
 
         }
 

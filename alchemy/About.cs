@@ -15,6 +15,7 @@ namespace alchemy
         public About()
         {
             InitializeComponent();
+            MaximizeBox = false;
         }
 
         private void backB_Click(object sender, EventArgs e)

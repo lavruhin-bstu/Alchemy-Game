@@ -645,7 +645,7 @@
             this.Controls.Add(this.clearB);
             this.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Алхимия";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);

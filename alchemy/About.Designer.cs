@@ -83,7 +83,7 @@
             this.Controls.Add(this.backB);
             this.Controls.Add(this.label1);
             this.Name = "About";
-            this.Text = "About";
+            this.Text = "Об игре";
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -8,6 +8,7 @@ namespace alchemy
         public menu()
         {
             InitializeComponent();
+            MaximizeBox = false;
         }
 
         private void LoadGame(object sender, EventArgs e)
