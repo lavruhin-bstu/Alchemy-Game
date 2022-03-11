@@ -396,6 +396,7 @@ namespace alchemy
         private void mixB_Click(object sender, EventArgs e)
         {
             label3.Text = null;
+            res = null;
             SoundPlayer simpleSound = new SoundPlayer(Properties.Resources._1);
             simpleSound.Play();
         }
