@@ -23,31 +23,19 @@ namespace alchemy
         int winGames = 0;
         int lastX;
         int lastY;
-        /// <summary>
-        /// //////////////////////////// по звука жизнь небо клетка
-        /// </summary>
+      
         private void FinalGames()
         {
-            if (winGames==24)
-            { 
+            if (winGames == 24)
+            {
                 MessageBox.Show("Вы прошли игру!");
-            SoundPlayer sound = new SoundPlayer(Properties.Resources.fanfaryi);
-            sound.Play();}
+                SoundPlayer sound = new SoundPlayer(Properties.Resources.fanfaryi);
+                sound.Play(); Close();
+            }
+            
 
         }
 
-        //private void mouseClick(object sender, MouseEventArgs 1
-        //{
-        //    int x=0;
-        //    int y=0;
-        //    if (e.Button.ToString() == "Right")
-        //    {
-
-        //       // currentObject.GetType().GetProperty("Location").SetValue(currentObject, new Point(Cursor.Position.X, Cursor.Position.Y));
-        //        currentObject = null;
-        //    }
-
-        //}
 
         public static T Clone<T>(T controlToClone) where T : Control
         {
